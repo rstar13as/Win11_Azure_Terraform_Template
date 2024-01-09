@@ -59,6 +59,7 @@ Terraform Discord - https://discord.gg/X6zn8Yu
 - Cloudinit is the way to do it for support Linux machines, but this isn't avaiable for Windows.check "
     - Run Bash scripts - https://brad-simonin.medium.com/learning-how-to-execute-a-bash-script-from-terraform-for-aws-b7fe513b6406
     - Learning how to execute a Bash script from Terraform - https://brad-simonin.medium.com/learning-how-to-execute-a-bash-script-from-terraform-for-aws-b7fe513b6406
+    - Quickstart: Create a lab in Azure DevTest Labs using Terraform - https://learn.microsoft.com/en-us/azure/devtest-labs/quickstarts/create-lab-windows-vm-terraform
 
 - There doesn't seem to be a proper supported method to do this which is so stupid;
 - What is the best practice to run a user-provided .ps1 script as “cloud init script” on a Windows VM module? 
